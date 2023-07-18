@@ -1,0 +1,8 @@
+name: PAPIMyChat
+version: '${project.version}'
+main: dev.clxud.papimychat.Papimychat
+api-version: '1.19'
+author: Clxud
+prefix: 'PAPIMyChat'
+depend:
+  - PlaceholderAPI
